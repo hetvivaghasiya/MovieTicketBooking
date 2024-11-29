@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/seat_selected.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFA500" /> <!-- Orange color for selected seats -->
+    <corners android:radius="8dp" />  <!-- Rounded corners -->
+    <stroke android:width="2dp" android:color="#000000" /> <!-- Black border -->
+</shape>
+

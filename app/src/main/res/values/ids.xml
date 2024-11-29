@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Define custom ID for seat_id and is_selected -->
+    <item name="seat_id" type="id"/>
+    <item name="is_selected" type="id"/>
+</resources>

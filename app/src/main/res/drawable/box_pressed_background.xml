@@ -1,0 +1,11 @@
+<!-- res/drawable/box_pressed_background.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true">
+        <shape android:shape="rectangle">
+            <solid android:color="#FFD700" /> <!-- Gold background for pressed state -->
+            <corners android:radius="8dp" />
+            <stroke android:width="2dp" android:color="#FF6200EE" />
+            <padding android:left="10dp" android:top="10dp" android:right="10dp" android:bottom="10dp" />
+        </shape>
+    </item>
+</selector>
